@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Product Swap AI",
+  "description": "An AI-powered tool to seamlessly replace a product in a poster with your own. Upload a poster, your product image, and specify the product to replace to generate a new image.",
+  "requestFramePermissions": []
+}
